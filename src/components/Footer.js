@@ -23,7 +23,7 @@ export default function Footer() {
                     <div className="col-lg-4">
                         <div className="footer_link_wrapper d-flex flex-wrap">
                             <div className="footer_link mt-45">
-                                <h4 className="footer_title">Support</h4>
+                                <h4 className="footer_title">Soporte</h4>
                                 <ul className="link">
                                     <li><a href="#home">Home</a></li>
                                     <li><a href="#features">Caracteristicas</a></li>
