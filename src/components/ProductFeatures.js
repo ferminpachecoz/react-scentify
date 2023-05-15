@@ -8,7 +8,7 @@ export default function ProductFeatures() {
                 <div className="col-lg-6 col-md-9">
                     <div className="section_title text-center pb-25">
                         <h4 className="title">Composicion del Producto</h4>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr diam nonumy eirmod tempor invidunt labore dolore magna aliquyam.</p>
+                        <p>Descubre cómo estos ingredientes cuidadosamente seleccionados crean una experiencia de aroma excepcional.</p>
                     </div>
                 </div>
             </div> {/* row */}

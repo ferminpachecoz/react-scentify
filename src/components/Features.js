@@ -41,8 +41,8 @@ export default function Features() {
                         <p>Fáciles de colocar en cualquier lugar gracias a su tamaño y envoltura en bolsa porosa para una liberación uniforme del aroma.</p>
                     </div>
                 </div>
-            </div> //-- row 
-        </div> //-- container 
+            </div>
+        </div>
     </section>
   )
 }
