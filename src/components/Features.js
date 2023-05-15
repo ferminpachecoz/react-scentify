@@ -15,28 +15,28 @@ export default function Features() {
             <div className="row text-center">
                 <div className="col-lg-3 col-sm-6">
                     <div className="single_features mt-30">
-                        <i className="lni lni-camera"></i>
+                        <i className="lni lni-certificate"></i>
                         <h5 className="title">Aroma duradero</h5>
                         <p>Las pelotitas aromatizantes de nuestra marca están diseñadas para ofrecer un aroma duradero en tus espacios, lo que significa que no tendrás que cambiarlas con frecuencia.</p>
                     </div>
                 </div>
                 <div className="col-lg-3 col-sm-6">
                     <div className="single_features mt-30">
-                        <i className="lni lni-bolt"></i>
+                        <i className="lni lni-pallet"></i>
                         <h5 className="title">Variedad de Aromas</h5>
                         <p>Ofrecemos una amplia variedad de aromas naturales, cada uno de los cuales está diseñado para crear un ambiente específico en tus espacios.</p>
                     </div>
                 </div>
                 <div className="col-lg-3 col-sm-6">
                     <div className="single_features mt-30">
-                        <i className="lni lni-game"></i>
+                        <i className="lni lni-trees"></i>
                         <h5 className="title">Eco-friendly</h5>
                         <p>Nuestro producto está hecho con resina al agua, lo que lo hace ecológico y libre de químicos dañinos para el medio ambiente.</p>
                     </div>
                 </div>
                 <div className="col-lg-3 col-sm-6">
                     <div className="single_features mt-30">
-                        <i className="lni lni-rocket"></i>
+                        <i className="lni lni-bulb"></i>
                         <h5 className="title">Facil de usar</h5>
                         <p>Fáciles de colocar en cualquier lugar gracias a su tamaño y envoltura en bolsa porosa para una liberación uniforme del aroma.</p>
                     </div>

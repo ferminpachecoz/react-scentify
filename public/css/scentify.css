@@ -19,6 +19,18 @@
   .header_image{
     display: none !important;
   }
+  .header_area{
+    padding: 100px 10px 20px 10px;
+  }
+  .header_title{
+    text-align: center;
+  }
+  .header_area p{
+    text-align: center;
+  }
+  .header_area .header_hero_content{
+    text-align: center;
+  }
   .product_image img{
     margin-left: 0px;
   }
