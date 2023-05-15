@@ -22,4 +22,7 @@
   .product_image img{
     margin-left: 0px;
   }
+  .preloader{
+    display: none !important;
+  }
 }
