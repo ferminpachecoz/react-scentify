@@ -1,0 +1,25 @@
+.header_image .image img{
+  height: 400px !important;
+  width: 400px !important;
+  margin-top: 300px !important;
+  margin-left: 100px !important;
+}
+.about_image .image img{
+  width: 500px !important;
+  height: 500px !important;
+  margin-right: 150px !important;
+}
+.product_image img{
+  margin-left: 50px;
+}
+.navbar-brand{
+  width: 200px;
+}
+@media (max-width: 767px){
+  .header_image{
+    display: none !important;
+  }
+  .product_image img{
+    margin-left: 0px;
+  }
+}
