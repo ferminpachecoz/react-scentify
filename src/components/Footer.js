@@ -15,7 +15,7 @@ export default function Footer() {
                             <ul className="social">
                                 <li><a href="#"><i className="lni lni-facebook-filled"></i></a></li>
                                 <li><a href="#"><i className="lni lni-twitter-original"></i></a></li>
-                                <li><a href="#"><i className="lni lni-instagram-original"></i></a></li>
+                                <li><a href="https://www.instagram.com/_scentify/"><i className="lni lni-instagram-original"></i></a></li>
                                 <li><a href="#"><i className="lni lni-linkedin-original"></i></a></li>
                             </ul>
                         </div> {/* footer about */}

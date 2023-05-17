@@ -37,6 +37,9 @@ export default function Header() {
                                   <li className="nav-item">
                                       <a className="page-scroll" href="#contact">Contacto</a>
                                   </li>
+                                  <li className="nav-item">
+                                  <a href="https://www.instagram.com/_scentify/" className='page-scroll' target='_blank'><i className="lni lni-instagram-original"></i></a>
+                                  </li>
                               </ul>
                           </div> {/* navbar collapse */}
                       </nav> {/*-- navbar -- */}
